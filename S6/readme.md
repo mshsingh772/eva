@@ -1,0 +1,5 @@
+![L1 Loss](https://github.com/mshsingh772/eva/blob/master/S6/images/L1(0.000001)Acc.png)
+![](https://github.com/mshsingh772/eva/blob/master/S6/images/L1(0.000001)Loss.png)
+![](https://github.com/mshsingh772/eva/blob/master/S6/images/L1(0.001)Acc.png)
+![](https://github.com/mshsingh772/eva/blob/master/S6/images/L1(0.001)Loss.png)
+![](https://github.com/mshsingh772/eva/blob/master/S6/images/MisMatchL1.png)
